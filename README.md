@@ -1,4 +1,4 @@
 # notes-angular
 notes app created by angular
 
-notesangular.netlify.app
+https://notesangular.netlify.app/#/signin
